@@ -32,9 +32,9 @@
   integrity sha1-7ihweulOEdK4J7y+UnC86n8+ce4=
 
 "@types/node@latest":
-  version "16.10.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.10.4.tgz#592f12b0b5f357533ddc3310b0176d42ea3e45d1"
-  integrity sha512-EITwVTX5B4nDjXjGeQAfXOrm+Jn+qNjDmyDRtWoD+wZsl/RDPRTFRKivs4Mt74iOFlLOrE5+Kf+p5yjyhm3+cA==
+  version "17.0.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.0.tgz#62797cee3b8b497f6547503b2312254d4fe3c2bb"
+  integrity sha512-eMhwJXc931Ihh4tkU+Y7GiLzT/y/DBNpNtr4yU9O2w3SYBsr9NaOPhQlLKRmoWtI54uNwuo0IOUFQjVOTZYRvw==
 
 abbrev@1:
   version "1.1.1"
